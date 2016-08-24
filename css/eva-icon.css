@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'eva-icon';
+  src:  url('../fonts/eva-icon.eot?jqv7d5');
+  src:  url('../fonts/eva-icon.eot?jqv7d5#iefix') format('embedded-opentype'),
+    url('../fonts/eva-icon.ttf?jqv7d5') format('truetype'),
+    url('../fonts/eva-icon.woff?jqv7d5') format('woff'),
+    url('../fonts/eva-icon.svg?jqv7d5#eva-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-eva-"], [class*=" icon-eva-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'eva-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eva-力天使:before {
+  content: "\e900";
+}
+.icon-eva-空天使:before {
+  content: "\e901";
+}
+.icon-eva-鱼天使:before {
+  content: "\e902";
+}
+.icon-eva-自由天使:before {
+  content: "\e903";
+}
+.icon-eva-子宫天使:before {
+  content: "\e904";
+}
+.icon-eva-鸟天使:before {
+  content: "\e905";
+}
+.icon-eva-霞天使:before {
+  content: "\e906";
+}
+.icon-eva-夜天使:before {
+  content: "\e907";
+}
+.icon-eva-恐怖天使:before {
+  content: "\e908";
+}
+.icon-eva-雨天使:before {
+  content: "\e909";
+}
+.icon-eva-胎天使:before {
+  content: "\e90a";
+}
+.icon-eva-音乐天使:before {
+  content: "\e90b";
+}
+.icon-eva-雷天使:before {
+  content: "\e90c";
+}
+.icon-eva-昼天使:before {
+  content: "\e90d";
+}
+.icon-eva-水天使:before {
+  content: "\e90e";
+}
+.icon-eva-NERV:before {
+  content: "\e90f";
+}
+
